@@ -46,3 +46,25 @@ class LeafNode(HTMLNode):
                     props_str += f' {key}="{val}"'
             return f"<{self.tag}{props_str}>{self.value}</{self.tag}>"
         
+class ParentNode(HTMLNode):
+    def __init__(self, tag, children, props=None):
+        if children == None:
+            raise ValueError("ParentNode children property cannot be None")
+        
+        self.tag = tag
+        self.children = children
+        self.props = props
+    
+    def to_html(self):
+        if self.tag == None:
+            raise ValueError("ParentNode had no tag property")
+        elif self.children == None:
+            raise ValueError("ParentNode has no children")
+        elif not self.children:
+            raise ValueError("Children is an empty list. ParentNode must have atleast (1) child")
+        else:
+            result = ""
+            for child in self.children:
+                recur_child = child.to_html()
+                result += recur_child
+            return f"<{self.tag}>{result}</{self.tag}>"
