@@ -1,5 +1,6 @@
 import unittest
-from htmlnode import HTMLNode, LeafNode, ParentNode
+from htmlnode import *
+from textnode import *
 
 class TestHTMLNode(unittest.TestCase):
     def test_props(self):
@@ -17,6 +18,12 @@ class TestHTMLNode(unittest.TestCase):
     def test_empty_props(self):
         node = HTMLNode(tag="a", value="Thanks for everything, love")
         print(node.props_to_html())
+    
+    def test_text(self):
+        node = TextNode("This is a text node", TextType.TEXT)
+        html_node = text_node_to_html_node(node)
+        self.assertEqual(html_node.tag, None)
+        self.assertEqual(html_node.value, "This is a text node")
 
 class TestLeafNode(unittest.TestCase):
     def test_leaf_to_html_p(self):
