@@ -78,3 +78,30 @@ class TestDelimiter(unittest.TestCase):
         node = TextNode("This is just some text without any links", TextType.TEXT)
         test_node = split_nodes_link([node])
         self.assertListEqual([TextNode("This is just some text without any links", TextType.TEXT)], test_node)
+    
+    def test_text_to_textnode(self):
+        text = "" \
+        "This **game** is so _awful_ I learned to `code` just to flex on Miro ![fear and hunger](funger.png) worth every penny [to steam](https://store.steampowered.com)"
+        txt_to_node = text_to_textnode(text)
+        self.assertListEqual(
+            [
+                TextNode("This ", TextType.TEXT),
+                TextNode("game", TextType.BOLD),
+                TextNode(" is so ", TextType.TEXT),
+                TextNode("awful", TextType.ITALIC),
+                TextNode(" I learned to ", TextType.TEXT),
+                TextNode("code", TextType.CODE),
+                TextNode(" just to flex on Miro ", TextType.TEXT),
+                TextNode("fear and hunger", TextType.IMAGE, "funger.png"),
+                TextNode(" worth every penny ", TextType.TEXT),
+                TextNode("to steam", TextType.LINK, "https://store.steampowered.com"
+                ),    
+            ],
+            txt_to_node,
+        )
+    
+    def test_text_to_textnode_empty(self):
+        text = ""
+        txt_to_node = text_to_textnode(text)
+        print(f" empty string: {txt_to_node}")
+        
