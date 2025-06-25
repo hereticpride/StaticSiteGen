@@ -1,5 +1,9 @@
 from enum import Enum
 
+from htmlnode import HTMLNode, text_node_to_html_node
+from inline_markdown import text_to_textnode
+from textnode import TextNode, TextType
+
 class BlockType(Enum):
     PARAGRAPH = "paragraph"
     HEADING = "heading" #Headings start with 1-6 # characters, followed by a space and then the heading text.
@@ -57,13 +61,69 @@ def markdown_to_blocks(markdown):
             result.append(stripped_block)
     return result
 
-text = "this is a paragraph"
-c = "```this is code```"
-h = "### this is a heading"
-test1 = block_to_block_type(text)
-test2 = block_to_block_type(c)
-test3 = block_to_block_type(h)
+def markdown_to_html_node(markdown):
+    blocks = markdown_to_blocks(markdown)
+    nodes_list = []
+    for block in blocks:
+        segment = block_to_block_type(block)
+        #based on block type create new HTMLNode
+        if segment == BlockType.PARAGRAPH:
+            node = text_to_html_children("p", block)
+            nodes_list.append(node)
+        elif segment == BlockType.HEADING:
+            #need to work on this
+            count = count_header(block)
+            if count > 0 and block[count:count+1] ==" ":
+                text = block[count+1:]
+                tag = f"h{count}"
+                node = text_to_html_children(tag, text)
+            else:
+                node = text_to_html_children("p", block)
+            nodes_list.append(node)
+        elif segment == BlockType.QUOTE:
+            lines = block.split("\n")
+            cleaned = "\n".join([line.lstrip("> ") for line in lines])
+            node = text_to_html_children("blockquote", cleaned)
+            nodes_list.append(node)     
+        elif segment == BlockType.UNORDERED_LIST:
+            list_items = []
+            for seg in block.split("\n"):
+                if seg == "":
+                    continue
+                node = text_to_html_children("li", seg.removeprefix("- ").strip())
+                list_items.append(node)
+            node = HTMLNode("ul", None, list_items)
+            nodes_list.append(node)
+        elif segment == BlockType.ORDERED_LIST:
+            list_items = []
+            counter = 1
+            for seg in block.split("\n"):
+                if seg == "":
+                    continue
+                node = text_to_html_children("li", seg.removeprefix(f"{counter}. ").strip())
+                list_items.append(node)
+                counter += 1
+            node = HTMLNode("ol", None, list_items)
+            nodes_list.append(node)
+        elif segment == BlockType.CODE:
+            code_text = "\n".join(line for line in block.split("\n")[1:-1])
+            code_node = HTMLNode("code", code_text)
+            pre_node = HTMLNode("pre", None, [code_node])
+            nodes_list.append(pre_node)
+            
+    return HTMLNode("div", None, nodes_list)
+    
+def count_header(header):
+    count = 0
+    for h in header:
+        if h == "#":
+            count += 1
+        else:
+            break
+    return count
 
-print(test1)
-print(test2)
-print(test3)
+def text_to_html_children(tag, text):
+    text_node = text_to_textnode(text)
+    children = [text_node_to_html_node(tex) for tex in text_node]
+    return HTMLNode(tag, None, children)
+    
