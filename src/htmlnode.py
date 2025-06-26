@@ -46,9 +46,9 @@ class LeafNode(HTMLNode):
             return self.value
         else:
             #I already handled this in props_to_html, this is completely redundant
-            for key, val in self.props.items(): 
-                    props_str += f' {key}="{val}"'
-            return f"<{self.tag}{props_str}>{self.value}</{self.tag}>"
+            #for key, val in self.props.items(): 
+                    #props_str += f' {key}="{val}"'
+            return f"<{self.tag}{self.props_to_html()}>{self.value}</{self.tag}>"
         
         def __repr__(self):
             return f"LeafNode({self.tag}, {self.value}, {self.props})"

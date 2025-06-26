@@ -1,6 +1,6 @@
 from enum import Enum
 
-from htmlnode import HTMLNode, text_node_to_html_node
+from htmlnode import HTMLNode, LeafNode, ParentNode, text_node_to_html_node
 from inline_markdown import text_to_textnode
 from textnode import TextNode, TextType
 
@@ -92,7 +92,7 @@ def markdown_to_html_node(markdown):
                     continue
                 node = text_to_html_children("li", seg.removeprefix("- ").strip())
                 list_items.append(node)
-            node = HTMLNode("ul", None, list_items)
+            node = ParentNode("ul", list_items)
             nodes_list.append(node)
         elif segment == BlockType.ORDERED_LIST:
             list_items = []
@@ -103,15 +103,15 @@ def markdown_to_html_node(markdown):
                 node = text_to_html_children("li", seg.removeprefix(f"{counter}. ").strip())
                 list_items.append(node)
                 counter += 1
-            node = HTMLNode("ol", None, list_items)
+            node = ParentNode("ol", list_items)
             nodes_list.append(node)
         elif segment == BlockType.CODE:
             code_text = "\n".join(line for line in block.split("\n")[1:-1])
-            code_node = HTMLNode("code", code_text)
-            pre_node = HTMLNode("pre", None, [code_node])
+            code_node = LeafNode("code", code_text)
+            pre_node = ParentNode("pre", [code_node])
             nodes_list.append(pre_node)
             
-    return HTMLNode("div", None, nodes_list)
+    return ParentNode("div", nodes_list)
     
 def count_header(header):
     count = 0
@@ -125,5 +125,5 @@ def count_header(header):
 def text_to_html_children(tag, text):
     text_node = text_to_textnode(text)
     children = [text_node_to_html_node(tex) for tex in text_node]
-    return HTMLNode(tag, None, children)
+    return ParentNode(tag, children)
     
