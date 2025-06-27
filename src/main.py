@@ -1,3 +1,4 @@
+import sys
 from textnode import TextNode, TextType
 import os
 import shutil
@@ -6,10 +7,17 @@ from generate_page import generate_page_recursive
 
 
 static_dir_path = "./static"
-public_dir_path = "./public"
+public_dir_path = "./docs"
 content = "./content"
 template = "./template.html"
-public = "./public/index.html"
+public = "./docs/index.html"
+
+if len(sys.argv) > 1:
+    basepath = sys.argv[1]
+
+else:
+    basepath = "/"
+
 
 
 def main():
@@ -19,7 +27,7 @@ def main():
     
     print("Copying static files to public directory...")
     copy_directory(static_dir_path, public_dir_path)
-    generate_page_recursive(content, template, public_dir_path)
+    generate_page_recursive(content, template, public_dir_path, basepath)
 
 
 main()
