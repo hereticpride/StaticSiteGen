@@ -18,7 +18,10 @@ if len(sys.argv) > 1:
 else:
     basepath = "/"
 
-
+if not basepath.startswith("/"):
+    basepath = "/" + basepath
+if not basepath.endswith("/"):
+    basepath = basepath + "/"
 
 def main():
     print("Deleting public directory...")
@@ -28,6 +31,7 @@ def main():
     print("Copying static files to public directory...")
     copy_directory(static_dir_path, public_dir_path)
     generate_page_recursive(content, template, public_dir_path, basepath)
+    print(basepath)
 
 
 main()

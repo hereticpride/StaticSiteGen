@@ -1,5 +1,6 @@
 import os
 import pathlib
+import re
 from markdown_blocks import markdown_to_html_node
 
 def extract_title(markdown):
@@ -25,8 +26,9 @@ def generate_page(from_path, template_path, dest_path, basepath):
 
     new_title = temp.replace("{{ Title }}", f"{title}")
     new_content = new_title.replace("{{ Content }}", f"{content}")
-    new_href = new_content.replace('href="/', f'href="{basepath}')
-    result = new_href.replace('src="/', f'src="{basepath}')
+
+    result = re.sub(r'href="/(?!http)', f'href="{basepath}', new_content)
+    result = re.sub(r'src="/(?!http)', f'src="{basepath}', result)
 
     os.makedirs(os.path.dirname(dest_path), exist_ok=True)
 
