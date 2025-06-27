@@ -1,16 +1,16 @@
-# Fuck Greg Fan Club
+# Tolkien Fan Club
 
 ![JRR Tolkien sitting](/images/tolkien.png)
 
-Here's the deal, **Fuck You Greg**.
+Here's the deal, **I like Tolkien**.
 
-> "I love to chug cock."
+> "I am in fact a Hobbit in all but size."
 >
-> -- Gregory Walter Smalls
+> -- J.R.R. Tolkien
 
 ## Blog posts
 
-- [Greg kicks puppy, caught on film](/blog/glorfindel)
+- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
 - [Why Tom Bombadil Was a Mistake](/blog/tom)
 - [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
 
