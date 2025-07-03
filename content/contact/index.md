@@ -2,8 +2,9 @@
 
 [< Back Home](/)
 
-Shoot me an email
+If you want to get in contact, don't. I am already inside your walls. You have mold. 
+If you want to know the damage you can email me at:
 
-`555-555-5555`
+`hereticpride666@gmail.com`
 
-**"Váya márië."**
+**"Hail Satan!"**
