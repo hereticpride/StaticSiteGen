@@ -1,5 +1,5 @@
 # The Tarkadarians
 
-[< Back Home](\)
+[< Back Home](/)
 
 This is just filler text

@@ -1,7 +1,6 @@
 # An Artistic Life
 
-[< Back Home](\)
-
+[< Back Home](/)
 
 When I was in 5th Grade my art teacher asked me, "Who is your favorite artist?"
 I thought about it for a moment and said with absolute conviction, "My dad!" 

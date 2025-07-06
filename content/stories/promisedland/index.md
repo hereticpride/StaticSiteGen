@@ -1,8 +1,6 @@
 # The Promised Land
 
-
-[< Back Home](\)
-
+[< Back Home](/)
 
 All the traveler had left was a loaf of bread and a flask of water by the time she got to the Promised Land. The sun was setting over the hills and valleys ahead. Her journey had been as long as life, but for once she was happy to see the orange horizon. _Tomorrow I will catch you,_ she thought, _tomorrow I will hold the sun._
 Tomorrow came and she was closer, but not close enough. Never close enough. All around her was in ruin. Moss grew over marble palaces and columns a hundred feet high. On top of the highest hill stood the statue of some dead god or king, his name forgotten with his worshippers. Two faces looked down on the traveller. Four eyes staring in silent judgment. He stood basking in the sun for so long that one of his faces began to blacken and crack. 
