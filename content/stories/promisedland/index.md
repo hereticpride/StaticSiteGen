@@ -2,11 +2,12 @@
 
 [< Back Home](/)
 
+
 All the traveler had left was a loaf of bread and a flask of water by the time she got to the Promised Land. The sun was setting over the hills and valleys ahead. Her journey had been as long as life, but for once she was happy to see the orange horizon. _Tomorrow I will catch you,_ she thought, _tomorrow I will hold the sun._
 Tomorrow came and she was closer, but not close enough. Never close enough. All around her was in ruin. Moss grew over marble palaces and columns a hundred feet high. On top of the highest hill stood the statue of some dead god or king, his name forgotten with his worshippers. Two faces looked down on the traveller. Four eyes staring in silent judgment. He stood basking in the sun for so long that one of his faces began to blacken and crack. 
 She walked past all these things until the rivers dried and the grass turned to sand. _All that is built crumbles_, a voice whispered to her. _All that lives withers_.
 
- “Hail! Say’th Who?” She called to the wind, but only the wind answered.
+ “Say’th Who?” She called to the voice, but the whistling wind was her only reply.
 
 It was then she saw a man, clad in bone and leather, dancing among the desert dunes. His face was veiled beneath the skull of a horse, it clicked and clacked with his movements. He crouched down to grab handfuls of sand. He whispered a few words into his hands as the grains poured through his fingers, and he blew. He threw the sand into the air and let it fall over him. As if bathed in earth. He began chanting, louder and louder. He danced, throwing handfuls of sand and letting it wash over him. As he spun, he kicked up even more and more, creating a spiral sandstorm. Trapped inside his own vortex, the wind swirled around him, sand poured into his eyes and mouth. He fell to his knees and the sand buried him.
 
@@ -16,7 +17,7 @@ The traveler pulled him from the sands. Helped him find his standing.
 
 “And what hast thou done?”
 
-“I prayed for rain,” He said. “I prayed for food. But silence is all that comes from the sky. And hunger is all that fills my belly. Until you came. Can you spare some food, dear traveller?”
+“I prayed for rain,” He said. “I prayed for food. But silence is all that comes from the sky. And hunger is all that fills my belly. Until you came. May thou spare some bread, dear traveller?”
 
 She could see him clearly now, beneath the horse skull he was a feeble old man. He smiled at her with hungry hopeful eyes, peering through the sockets of a rotting horse head. She should have just left him to die. 
 “All I have is enough for myself,” she said. “I am sorry.”
