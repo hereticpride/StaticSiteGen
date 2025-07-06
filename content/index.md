@@ -1,46 +1,20 @@
-# Tolkien Fan Club
+# Heretic's Field
 
-![JRR Tolkien sitting](/images/tolkien.png)
+![Tarot Reading](/images/tarot.jpg)
 
-Here's the deal, **I like Tolkien**.
+Hello, and welcome to my website. It is currently under construction. But I figured I should put something here for now. People keep telling me I should share my writing, now I have a place to put it. I made it with my own hands. It was hard, frustrating and _probably_ not worth the effort. Such are the best things in life. Below you will find a few old pieces I feel comfortable enough sharing. Maybe I’ll post more eventually. Maybe I won’t. Most of my stuff is in notebooks and rewriting it in markdown format is tedious. 
 
-> "I am in fact a Hobbit in all but size."
->
-> -- J.R.R. Tolkien
+## Short Stories
 
-## Blog posts
+- [The Promised Land](/stories/promisedland)
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
 
-## Reasons I like Tolkien
+## Poetry
 
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
+This is just filler text
 
-## My favorite characters (in order)
+## Blog Posts
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
+- [An Artistic Life](/blog/art)
 
-Here's what `elflang` looks like (the perfect coding language):
-
-```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
-```
-
-Want to get in touch? [Contact me here](/contact).
-
-This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
+Want to contact me? [Don't](/contact).

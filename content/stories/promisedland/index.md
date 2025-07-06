@@ -1,0 +1,52 @@
+# The Promised Land
+
+
+[< Back Home](\)
+
+
+All the traveler had left was a loaf of bread and a flask of water by the time she got to the Promised Land. The sun was setting over the hills and valleys ahead. Her journey had been as long as life, but for once she was happy to see the orange horizon. _Tomorrow I will catch you,_ she thought, _tomorrow I will hold the sun._
+Tomorrow came and she was closer, but not close enough. Never close enough. All around her was in ruin. Moss grew over marble palaces and columns a hundred feet high. On top of the highest hill stood the statue of some dead god or king, his name forgotten with his worshippers. Two faces looked down on the traveller. Four eyes staring in silent judgment. He stood basking in the sun for so long that one of his faces began to blacken and crack. 
+She walked past all these things until the rivers dried and the grass turned to sand. _All that is built crumbles_, a voice whispered to her. _All that lives withers_.
+
+ “Hail! Say’th Who?” She called to the wind, but only the wind answered.
+
+It was then she saw a man, clad in bone and leather, dancing among the desert dunes. His face was veiled beneath the skull of a horse, it clicked and clacked with his movements. He crouched down to grab handfuls of sand. He whispered a few words into his hands as the grains poured through his fingers, and he blew. He threw the sand into the air and let it fall over him. As if bathed in earth. He began chanting, louder and louder. He danced, throwing handfuls of sand and letting it wash over him. As he spun, he kicked up even more and more, creating a spiral sandstorm. Trapped inside his own vortex, the wind swirled around him, sand poured into his eyes and mouth. He fell to his knees and the sand buried him.
+
+“I hath prayed o’er a thousand years,” he cried horsehead in hand, “but ne’er a thing comes.”
+
+The traveler pulled him from the sands. Helped him find his standing.
+
+“And what hast thou done?”
+
+“I prayed for rain,” He said. “I prayed for food. But silence is all that comes from the sky. And hunger is all that fills my belly. Until you came. Can you spare some food, dear traveller?”
+
+She could see him clearly now, beneath the horse skull he was a feeble old man. He smiled at her with hungry hopeful eyes, peering through the sockets of a rotting horse head. She should have just left him to die. 
+“All I have is enough for myself,” she said. “I am sorry.”
+He fell back to his knees and fumbled out a prayer. “Amen,” he said, “amen, amen, amen.” He bowed and scraped and clapped his hands together, each time less confident, each _amen_ lacking the conviction of the previous.
+The traveler watched the shaman with pity, she forced herself to look away. Hidden in the dunes she saw a cottage with hungry eyes looking out a tiny doorway. The sand had covered it to look no different than any other dune, except for the hole with the starving eyes that burned into her soul. Behind it were a dozen other dunes each with a hole and set of eyes covered in shadow. Each one of them was watching. Each one of them was judging. Each one of them was praying.
+“Who are they praying to?” The traveller asked.
+“To whomever has ears to listen,” the shaman shrieked, clutching his stomach. “To whomever has eyes to see. To whomever has a hand to lend. To whomever has bread to eat.”
+
+_There are days when I ate more than bread_, she told herself. _There are days when I was full, but I may never be full again_. She shivered at the thought. She took her loaf of bread from her pack. She split off chunks of dry bread, for that is all she had, and divided it among the town. They scurried out of their hovels, pale from hunger and darkness. She handed them each a bite of bread and each of the little eyelids blinked and thanked her. No matter how much she gave she always had just enough for the next set of hungry eyes. Until the eyes were no longer hungry, and then the rain came. It flooded the desert and washed the little village away.   
+When she left she could still hear them praying.
+
+She could see the sun shining brighter now, still just beyond the horizon. She stopped for a moment and smiled as the warm rays poured over her face. But as she walked the sun grew hotter, and her skin began to blister and peel. The hotter it became the slower she walked. Her feet were dragging behind her and the sun fell under the mountains before her. The night was cool and made for easier travel, but she couldn’t afford to lose the sun. She came too far to let it slip from her grasp, so she ran. She forced one foot in front of the other over and over again. She felt like gears were grinding inside her. She fell to the ground when her legs gave in, but she pulled herself up and continued. Sleep, the night was whispering. Sleep is what she wanted. Food would be good, but if she could sleep she wouldn’t feel so hungry. She could still hear the villagers praying inside her head.
+The road reached up to the base of the mountains and ended at the entrance to a cave. It might be a dead-end, but it’s quicker than climbing. Her eyes were slow to adjust to the dark, but when they did she could see symbols and figures painted on the cave walls. One was a giant demon twice the size of a whale. His legs were burning X’s. There was a sword in his right hand and a noose in his left. The creature had two heads. The bigger one had no ears to listen nor eyes to see, but his mouth was open wide with his teeth sinking into the flesh of the other head. The eyes of the small head looked down at her and for a second she thought she saw him cry. Beneath the mad god there were tiny people worshiping the beast or begging for its mercy. The other paintings depicted more common things, a king leading troops into battle, workers in a field, men hunting, but the last one sent shivers down her spine. There were a thousand detailed life-sized portraits facing her. Each one was watching and waiting. They stood in silent vigil as if they had been waiting for her arrival. As she walked past them their cold, stone eyes followed her, and again she heard the villagers praying. The paintings appeared to melt the farther she went. They hunched over themselves and their skin fell from their bones. She was surrounded by a thousand melted corpses when she saw the light at the end of the tunnel. It came so suddenly that it blinded her. 
+
+Slowly, an image began to form in the piercing white light.
+
+_I should go back_, she thought, but she couldn’t turn away. 
+She could see the very sky beneath her and thousands of angels resting on pillows made of clouds, but there before her, at the center of everything, she saw it, she saw the sun. And then she saw what was inside the sun. The same mad god monster that was eating its own head was sitting on a throne of fire. Beneath him were people with iron chains around their necks. The slaves’ skin had boils and blisters and their eyes had melted out of their sockets. Those who still had eyes were crying but the tears turned to steam on their cheeks. Each one had a shovel to throw coal into a gaping black hole in the center of the earth. A person fell in, and the sun grew brighter. It felt so warm on her face that she almost smiled.
+
+“What is this place,” she said. “Who art thou?”
+
+The demon stood up from his throne and laughed. With each chuckle the earth shook, mountains crumbled and cities fell into the sea. 
+“This is heaven,” the demon said “Bow before the Lord Thy God.”
+
+The traveler licked her lips and said, “I just wanted something to keep me warm. I just wanted to hold **my** sun.”
+“The sun belongs to me,” the devil-god said, “but you’re welcome to help mine it, and I’ll pay you in warmth. The sun has been here for a thousand centuries, and it will BURN FOR A THOUSAND MORE.”
+The traveler thought about what he had said, and she found that she couldn’t remember the things she used to believe. She took the last of her water and threw it into the burning sun. The angels just kept sleeping on their pillow clouds while the sun smoldered out and died. The grey core fell to the earth and landed at the bottom of the hole.
+
+“No, NO!” the devil-god raged, “What have you done? My sun, MY SUN!” He wailed and screamed, but the earth didn’t shake, the mountains and cities stayed where they were. He threw himself into the pit and vanished. The hole sealed up after him, leaving no trace of the ancient sun.
+She could no longer hear the villagers’ prayers. _I killed God_, she thought. _What hope is there now?_ 
+She found some sticks for kindling, and sparked another fire. She nurtured it sweet and tenderly. The flames licked up at her hungrily, but they didn’t grow very far. _I just wanted something warm_, she thought. _I just wanted something good. The people can sleep beneath me. They can be warm and full. And I’ll be the sun above them._ She stepped into the fire and burned.
