@@ -8,18 +8,15 @@ Hello, and welcome to my website. It is currently under construction. But I figu
 
 ## Short Stories
 
-- [The Tarkadarians](/stories/tarkadarians)
+- [The Danse Macabre](/stories/danse)
 - [The Promised Land](/stories/promisedland)
 - [A Recipe for Possum Soup](/stories/possumsoup)
 
-## Poetry
-
-- [Before Dishonor](/poems/beforedishonor)
-- [Narcissistic personality disorder](/poems/narcissism) 
 
 ## Blog Posts
 
 - [An Artistic Life](/blog/art)
 
 
-Want to contact me? [Don't](/contact).
+Want to contact me? [Don't](/contact). 
+[Buy me a coffee](https://ko-fi.com/hereticpride)
