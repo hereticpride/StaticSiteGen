@@ -18,6 +18,9 @@ Follow the signs.
 - [A Recipe for Possum Soup](/stories/possumsoup)
 
 
+## Visions of Despair
+ - [Why?](/art)
+
 ## Gnostic Truths
 
 - [An Artistic Life](/blog/art)
