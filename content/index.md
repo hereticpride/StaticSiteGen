@@ -19,7 +19,7 @@ Follow the signs.
 
 
 ## Visions of Despair
- - [Why?](/art)
+- [Why?](/art)
 
 ## Gnostic Truths
 
