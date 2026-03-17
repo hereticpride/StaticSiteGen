@@ -1,1 +1,1 @@
-python3 src/main.py "/StaticSiteGen/"
+python3 src/main.py "/HereticsField/"

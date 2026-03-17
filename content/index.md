@@ -4,18 +4,28 @@
 
 > "The End Is Nigh!"
 
-Hello, and welcome to my website. It is currently under construction. But I figured I should put something here for now. People keep telling me I should share my writing, now I have a place to put it. I made it with my own hands. It was hard, frustrating and _probably_ not worth the effort. Such are the best things in life. Below you will find a few old pieces I feel comfortable enough sharing. Maybe I’ll post more eventually. Maybe I won’t. Most of my stuff is in notebooks and rewriting it in markdown format is tedious. 
+Welcome to the field, Heretic. If you are reading this you have been banished from the world of the upright walking men. It is too late to turn back. The Mark of the Beast is upon you. Do not expect a light at the end of the tunnel. That’s just Lu burning another coal. The gates of heaven are closed. So keep your boltcutters at the ready and drink plenty of water. We’re in Hell.
 
-## Short Stories
+If we can’t make it out. We’ll at least make it through.
+
+Follow the signs.
+
+
+## Tales from the Crypt
 
 - [The Danse Macabre](/stories/danse)
 - [The Promised Land](/stories/promisedland)
 - [A Recipe for Possum Soup](/stories/possumsoup)
 
 
-## Blog Posts
+## Gnostic Truths
 
 - [An Artistic Life](/blog/art)
+
+
+## About Me
+
+I am a Humanoid adjacent evolutionary mutation with no perceivable form. I shift dimensions at a moments notice. If you know me, no you don’t. This body is just the vessel. I am simply not here. I sold my soul to the demon prince Asmodeus in 2005 and have been trying to reclaim it ever since. I will do so, if it kills me.  
 
 
 Want to contact me? [Don't](/contact). 
