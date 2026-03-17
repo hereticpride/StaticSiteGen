@@ -2,6 +2,8 @@
 
 [Back Home](/)
 
+![The Eye of Fate](/images/EyeOfFate.png)
+
 
 	Every day I wake up in a different carcass. These flailing bodies still breathe, eat, and shit. They laugh and they cry. Sometimes they dance. They do all the things that the living bodies do. But they are dead. They just don’t know it yet.
 	
