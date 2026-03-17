@@ -2,8 +2,6 @@
 
 [Back Home](/)
 
-![The Eye of Fate](/images/EyeOfFate.png)
-
 
 Every day I wake up in a different carcass. These flailing bodies still breathe, eat, and shit. They laugh and they cry. Sometimes they dance. They do all the things that the living bodies do. But they are dead. They just don’t know it yet.
 	
@@ -156,3 +154,6 @@ I open my eyes. Translucent shapes come into focus, glazed behind some kind of w
 “Shhhh, don’t cry. That’s just the angels dancing,” the voice sings in soprano, barely audible above the thunderous choir. It is soft and kind. And it names me. Gives me form. Binds me to this world. “I love you.”
 	
 In this moment, I don’t know what the words mean, but something in them brings me great joy and comfort. I am glad I am alive. I close my eyes and wake up in a different carcass.
+
+
+![The Eye of Fate](/images/EyeOfFate.png)
