@@ -13,12 +13,14 @@ Follow the signs.
 
 ## Tales from the Crypt
 
+- [The Eldritch Horror in Apt C](/stories/eldritchhorror)
 - [The Danse Macabre](/stories/danse)
 - [The Promised Land](/stories/promisedland)
 - [A Recipe for Possum Soup](/stories/possumsoup)
 
 
 ## Visions of Despair
+
 - [Why?](/art)
 
 ## Gnostic Truths
